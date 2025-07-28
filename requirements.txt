@@ -1,0 +1,9 @@
+coverage==5.5
+deprecation==2.1.0
+filetype==1.2.0
+mp3-tagger==1.0
+packaging==25.0
+rapidfuzz==3.9.7
+thefuzz==0.22.1
+toml==0.10.2
+tqdm==4.67.1
